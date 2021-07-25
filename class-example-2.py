@@ -11,6 +11,12 @@ class Person:
 p1 = Person("Ramesh", 50,"male","indian","dewa","Technician")
 p2 = Person("Naheed",35,"male","Pakisthan","dewa","Asst Technician")
 #Here p1 is an object
+print(p1.name)
+print(p1.age)
+print(p1.gender)
+print(p1.nationality)
+print(p1.company)
+print(p1.job)
 print(p2.name)
 print(p2.age)
 print(p2.gender)
